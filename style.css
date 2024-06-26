@@ -1,0 +1,32 @@
+/* style.css */
+.main {
+    background-color: #020606;
+    color: #eaf3f1;
+}
+.reportview-container {
+    padding: 2rem;
+}
+.sidebar .sidebar-content {
+    background-color: #004d40;
+    color: #e0f7fa;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+.stButton>button {
+    background-color: #000000;
+    color: rgb(234, 21, 21);
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    transition: background-color 0.3s;
+}
+.stButton>button:hover {
+    background-color: #004d40;
+}
+.css-1aumxhk {
+    font-family: 'Courier New', Courier, monospace;
+}
+.css-ffhzg2 {
+    font-family: 'Courier New', Courier, monospace;
+}
