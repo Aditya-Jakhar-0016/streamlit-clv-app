@@ -1,6 +1,6 @@
-streamlit==1.14.0
-pandas==1.4.2
-matplotlib==3.5.1
-seaborn==0.11.2
-scikit-learn==1.0.2
-openpyxl==3.0.9
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
+openpyxl
