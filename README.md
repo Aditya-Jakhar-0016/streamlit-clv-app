@@ -25,7 +25,7 @@ The motivation behind this project is to provide businesses with a reliable tool
 4. README.md: Project documentation.
 **Arrangement and Establishment**
 1. Clone the repository:
-   git clone https://github.com/yourusername/clv-prediction-model.git
+   git clone https://github.com/Aditya-Jakhar-0016/clv-prediction-model.git
    cd clv-prediction-model
 2. Create a virtual environment:
    python -m venv venv
