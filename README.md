@@ -23,15 +23,6 @@ The motivation behind this project is to provide businesses with a reliable tool
 2. app/: Streamlit application for user interaction and CLV prediction.
 3. requirements.txt: List of required Python libraries.
 4. README.md: Project documentation.
-**Arrangement and Establishment**
-1. Clone the repository:
-   git clone https://github.com/Aditya-Jakhar-0016/clv_app.git
-   cd clv-prediction-model
-2. Create a virtual environment:
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-3. Install the required libraries:
-    pip install -r requirements.txt
 **Usage**
 1. Run the Microsoft VS code IDE on the clv_app.py  to preprocess the data and develop the model.
 2. Start the Streamlit application:
